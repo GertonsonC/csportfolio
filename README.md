@@ -11,3 +11,5 @@ Here's my [lightning project](https://gertonsonc.github.io/lightning2/)!
 And here it is in [JavaScript]()
 
 Here's my [Dice Program](https://gertonsonc.github.io/dice/)
+
+Here's my [Chemotaxis](https://gertonsonc.github.io/chemotaxis4/)
