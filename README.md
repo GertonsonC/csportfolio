@@ -15,7 +15,7 @@ Here's my [Chemotaxis](https://gertonsonc.github.io/chemotaxis4/)
 
 This is some of the hardest code I've written this year. This is from **Chemotaxis**
 
-'''Java
+```
   void draw()   
 { 
   if (startT==false){
@@ -71,5 +71,4 @@ This is some of the hardest code I've written this year. This is from **Chemotax
     }
   }
 }
-
-'''
+```
