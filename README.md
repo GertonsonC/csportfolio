@@ -7,13 +7,13 @@ Here's my comp sci portfolio
 
 Here's a link to my HTML/CSS [site](https://gertonsonc.github.io/testWeb/dogPage/index)
 
-Here's my [lightning project](https://gertonsonc.github.io/lightning2/)
+Here's my [Lightning Project](https://gertonsonc.github.io/lightning2/)
 
 Here's my [Dice Program](https://gertonsonc.github.io/dice/)
 
-Here's my [Chemotaxis](https://gertonsonc.github.io/chemotaxis4/)
+Here's my [Chemotaxis Game](https://gertonsonc.github.io/chemotaxis4/) **DOES NOT WORK ONLINE**
 
-Here's my [Starfield](https://gertonsonc.github.io/starfield5/)
+Here's my [Starfield Program](https://gertonsonc.github.io/starfield5/)
 
 This is some of the hardest code I've written this year. This is from **Chemotaxis**
 
