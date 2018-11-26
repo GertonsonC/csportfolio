@@ -1,8 +1,6 @@
 # Comp Sci Portfolio !!
 
-Hey
-
-Here's my comp sci portfolio !!
+Hey how's your day been?
 
 <details><summary>HTML Site</summary>
 SITE LINK:
