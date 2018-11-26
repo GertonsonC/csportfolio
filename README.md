@@ -8,11 +8,11 @@ Here's my comp sci portfolio !!
 SITE LINK:
   
   https://gertonsonc.github.io/testWeb/dogPage/index
+  
   <details><summary>Reflection</summary>
   im gonna say the n word.
   </details>
 </details>
-
 
 
 <details><summary>Lightning</summary>
