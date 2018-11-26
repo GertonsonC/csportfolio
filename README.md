@@ -14,6 +14,7 @@ SITE LINK:
   </details>
 </details>
 
+
 <details><summary>Lightning</summary>
 PROJECT LINK:
 
@@ -23,6 +24,7 @@ PROJECT LINK:
   im gonna say the n word.
   </details>
 </details>
+
 
 <details><summary>Dice</summary>
 PROJECT LINK: 
@@ -34,6 +36,7 @@ PROJECT LINK:
   </details>
 </details>
 
+
 <details><summary>Chemotaxis</summary>
 PROJECT LINK: 
   
@@ -44,6 +47,7 @@ https://gertonsonc.github.io/chemotaxis4/ **DOES NOT WORK ONLINE**
   </details>
 </details>
 
+
 <details><summary>Starfield</summary>
 PROJECT LINK: 
 
@@ -53,6 +57,7 @@ https://gertonsonc.github.io/starfield5/
   im gonna say the n word.
   </details>
 </details>
+
 
 <details><summary>Additional Reflecions</summary>
 
@@ -115,3 +120,4 @@ This is some of the hardest code I've written this year. This is from **Chemotax
   }
 }
 ```
+</details>
