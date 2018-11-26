@@ -9,7 +9,7 @@ SITE LINK:
   
   https://gertonsonc.github.io/testWeb/dogPage/index
   
-  <details><summary>Reflection</summary>
+  <details><summary>Website Reflection</summary>
   im gonna say the n word.
   </details>
 </details>
@@ -20,7 +20,7 @@ PROJECT LINK:
 
   https://gertonsonc.github.io/lightning2/
   
-  <details><summary>Reflection</summary>
+  <details><summary>Lightning Reflection</summary>
   im gonna say the n word.
   </details>
 </details>
@@ -31,7 +31,7 @@ PROJECT LINK:
 
   https://gertonsonc.github.io/dice/
   
-  <details><summary>Reflection</summary>
+  <details><summary>Dice Reflection</summary>
   im gonna say the n word.
   </details>
 </details>
@@ -42,7 +42,7 @@ PROJECT LINK:
   
 https://gertonsonc.github.io/chemotaxis4/ **DOES NOT WORK ONLINE**
 
-<details><summary>Reflection</summary>
+<details><summary>Chemotaxis Reflection</summary>
   im gonna say the n word.
   </details>
 </details>
@@ -53,13 +53,13 @@ PROJECT LINK:
 
 https://gertonsonc.github.io/starfield5/
 
-<details><summary>Reflection</summary>
+<details><summary>Starfield Reflection</summary>
   im gonna say the n word.
   </details>
 </details>
 
 
-<details><summary>Additional Reflecions</summary>
+<details><summary>Additional Reflections</summary>
 
 This is some of the hardest code I've written this year. This is from **Chemotaxis**
 
