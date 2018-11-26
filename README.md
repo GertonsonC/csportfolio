@@ -1,4 +1,4 @@
-# csportfolio
+# Comp Sci Portfolio !!
 
 Hey
 
