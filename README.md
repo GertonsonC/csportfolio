@@ -14,13 +14,47 @@ SITE LINK:
   </details>
 </details>
 
-Here's my [Lightning Project](https://gertonsonc.github.io/lightning2/)
+<details><summary>Lightning</summary>
+PROJECT LINK:
 
-Here's my [Dice Program](https://gertonsonc.github.io/dice/)
+  https://gertonsonc.github.io/lightning2/
+  
+  <details><summary>Reflection</summary>
+  im gonna say the n word.
+  </details>
+</details>
 
-Here's my [Chemotaxis Game](https://gertonsonc.github.io/chemotaxis4/) **DOES NOT WORK ONLINE**
+<details><summary>Dice</summary>
+PROJECT LINK: 
 
-Here's my [Starfield Program](https://gertonsonc.github.io/starfield5/)
+  https://gertonsonc.github.io/dice/
+  
+  <details><summary>Reflection</summary>
+  im gonna say the n word.
+  </details>
+</details>
+
+<details><summary>Chemotaxis</summary>
+PROJECT LINK: 
+  
+https://gertonsonc.github.io/chemotaxis4/ **DOES NOT WORK ONLINE**
+
+<details><summary>Reflection</summary>
+  im gonna say the n word.
+  </details>
+</details>
+
+<details><summary>Starfield</summary>
+PROJECT LINK: 
+
+https://gertonsonc.github.io/starfield5/
+
+<details><summary>Reflection</summary>
+  im gonna say the n word.
+  </details>
+</details>
+
+<details><summary>Additional Reflecions</summary>
 
 This is some of the hardest code I've written this year. This is from **Chemotaxis**
 
