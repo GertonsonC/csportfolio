@@ -4,8 +4,6 @@ Hey
 
 Here's my comp sci portfolio !!
 
-<span style="color:blue">some *blue* text</span>
-
 <details><summary>HTML Site</summary>
 SITE LINK:
   
