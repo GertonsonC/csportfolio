@@ -39,7 +39,9 @@ CODE:https://raw.githubusercontent.com/GertonsonC/dice/gh-pages/Dice.pde?token=A
 
   
   <details><summary>:arrow_right:Dice Reflection:arrow_left:</summary>
+    <p>
    Dice really took me a while to make. It was hard for me to come up with an idea that would stand out. In fact, my original idea had the dice spinning on their own and you could click the mose to stop and take a pause in the program, and click again to resume it. I used the delay() method in processing which doesn't seem to work in the web browser, so I made the dice rolling manual. One thing that I did that was cool was using only RGB values above 150 to make the pastel colors of the dice contrast with the darker background.
+    </p>
   </details>
 </details>
 
@@ -52,7 +54,9 @@ CODE:https://raw.githubusercontent.com/GertonsonC/chemotaxis4/gh-pages/Chemotaxi
 
 
 <details><summary>:arrow_right:Chemotaxis Reflection:arrow_left:</summary>
+    <p>
   This was the program that took me the longest to make. When the project was first introduced, I knew I wanted to make it into a game. I had so many if statements that would always be checking if things were true that could slow down the particles, end the game, or move the particles. This took me a while to make just to get everything working with no issues. Using arrays to constantly track the X and Y coordinates of the particles took a while to set up, and getting the hitboxes of the particles just right took me a while just itself. I really like how this project turned out, but unfortunately it doesn't work online due to the delay() function being used, and it's the whole backbone of my program so I couldn't just take it out.
+    </p>
   </details>
 </details>
 
@@ -65,7 +69,9 @@ CODE:https://raw.githubusercontent.com/GertonsonC/starfield5/gh-pages/Starfield.
 
 
 <details><summary>:arrow_right:Starfield Reflection:arrow_left:</summary>
+    <p>
   The hardest part of starfield for me was getting the particles that bounce off the walls to work. It took me forever just to figure out how I would be able to move all of them at once and track their X and Y values so I could reverse them if necessary when hitting a wall. I added in the reverse when the mouse is pressed thing last second to make my program less generic, but it led to a cool bug that I left in that makes the spinning particles look different. This one was very frustuating to make, but the end result was pretty cool.
+    </p>
   </details>
 </details>
 
