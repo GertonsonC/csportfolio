@@ -78,6 +78,16 @@ CODE:https://raw.githubusercontent.com/GertonsonC/starfield5/gh-pages/Starfield.
 
 <details><summary>:arrow_right:Additional Reflections:arrow_left:</summary>
 
+<p>
+    One thing that I was proud of was my chemotaxis in general. I came in before school like every day to get this done, and finishing it was really hard. I had to make sure all the hitboxes work, I had to constantly be checking the X and Y positions of all the particles, check them for colission, and make them move at a reasonable scale. I had to add a working timer that stopped after 60 seconds. I had to get everything to line up and look nice on the display, and there were so many other thigns that made this the hardest program for me. I'm glad that I got through it and that I worked hard to come up with a final product that ended up woking really well and being cool. Nothing anyone else did was anything like it, and I thought that was cool. My code for this is above in the Chemotaxis section. It does not work on the web browser due to the use of the delay() method, but if you copy/paste it in Processing it should work fine.
+    
+    Another thing I am proud of is how I learned all this stuff about HTML and CSS. 3 months ago if you asked me what CSS was, I would've had no idea. Now with all the work I put into my website, I know just how far you can go with HTML and CSS to make a website that not only looks nice, but has functionality and can do cool things. One thing that was suprisingly easy was implementing youtube videos into the site, but that added to the whole thing overall. Learning all that was really fun and cool, and I want to learn other languages that aren't similar to Java for the same reason.
+    </p>
+
+<p>
+        The biggest hurdle for me to overcome was for me to get my bouncing particles to work in Starfield. I was just very confused at how you would use an interface to link everything together and I was focusing too much on that. What I eventually ended up doing was looking at the falling snowflakes from the christmas card last year and using that code as a foundation for those stars.
+</p>
+    
 This is some of the hardest code I've written this year. This is from **Chemotaxis**
 
 ```
@@ -137,8 +147,4 @@ This is some of the hardest code I've written this year. This is from **Chemotax
   }
 }
 ```
-
-    <p>
-        The biggest hurdle for me to overcome was for me to get my bouncing particles to work in Starfield. I was just very confused at how you would use an interface to link everything together and I was focusing too much on that. What I eventually ended up doing was looking at the falling snowflakes from the christmas card last year and using that code as a foundation for those stars.
-    </p>
 </details>
