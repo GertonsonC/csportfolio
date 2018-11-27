@@ -4,10 +4,12 @@ Hey how's your day been?
 
 <details><summary>HTML Site</summary>
 SITE LINK:
-  
-  https://gertonsonc.github.io/testWeb/dogPage/index
-  
-  <details><summary>Website Reflection</summary>
+https://gertonsonc.github.io/testWeb/dogPage/index
+    
+CODE: 
+https://raw.githubusercontent.com/GertonsonC/testWeb/gh-pages/dogPage/index.html
+
+  <details><summary>:arrow_right:Website Reflection:arrow_left:</summary>
   im gonna say the n word.
   </details>
 </details>
@@ -18,7 +20,7 @@ PROJECT LINK:
 
   https://gertonsonc.github.io/lightning2/
   
-  <details><summary>Lightning Reflection</summary>
+  <details><summary>:arrow_right:Lightning Reflection:arrow_left:</summary>
   im gonna say the n word.
   </details>
 </details>
@@ -29,7 +31,7 @@ PROJECT LINK:
 
   https://gertonsonc.github.io/dice/
   
-  <details><summary>Dice Reflection</summary>
+  <details><summary>:arrow_right:Dice Reflection:arrow_left:</summary>
   im gonna say the n word.
   </details>
 </details>
@@ -40,7 +42,7 @@ PROJECT LINK:
   
 https://gertonsonc.github.io/chemotaxis4/ **DOES NOT WORK ONLINE**
 
-<details><summary>Chemotaxis Reflection</summary>
+<details><summary>:arrow_right:Chemotaxis Reflection:arrow_left:</summary>
   im gonna say the n word.
   </details>
 </details>
@@ -51,13 +53,13 @@ PROJECT LINK:
 
 https://gertonsonc.github.io/starfield5/
 
-<details><summary>Starfield Reflection</summary>
+<details><summary>:arrow_right:Starfield Reflection:arrow_left:</summary>
   im gonna say the n word.
   </details>
 </details>
 
 
-<details><summary>Additional Reflections</summary>
+<details><summary>:arrow_right:Additional Reflections:arrow_left:</summary>
 
 This is some of the hardest code I've written this year. This is from **Chemotaxis**
 
