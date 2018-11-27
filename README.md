@@ -137,4 +137,8 @@ This is some of the hardest code I've written this year. This is from **Chemotax
   }
 }
 ```
+
+    <p>
+        The biggest hurdle for me to overcome was for me to get my bouncing particles to work in Starfield. I was just very confused at how you would use an interface to link everything together and I was focusing too much on that. What I eventually ended up doing was looking at the falling snowflakes from the christmas card last year and using that code as a foundation for those stars.
+    </p>
 </details>
