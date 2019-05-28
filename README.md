@@ -85,7 +85,7 @@ CODE:
 https://raw.githubusercontent.com/GertonsonC/DataProject/ghpages/DataProject/DataProject.pde
  
   
-  <details><summary>:arrow_right:Lightning Reflection:arrow_left:</summary>
+  <details><summary>:arrow_right:Data Project Reflection:arrow_left:</summary>
     <p>Insert stuff here!!
     </p>
   </details>
