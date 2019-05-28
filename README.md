@@ -35,9 +35,9 @@ https://raw.githubusercontent.com/GertonsonC/lightning2/gh-pages/Lightning.pde?t
 
 <details><summary>Dice</summary>
 PROJECT LINK: 
-https://gertonsonc.github.io/dice/
+https://gertonsonc.github.io/dice3/
     
-CODE:https://raw.githubusercontent.com/GertonsonC/dice/gh-pages/Dice.pde?token=AeS-YOZ_GTO5gjZuzZJ7qjqnwd4V75LTks5cBeg6wA%3D%3D
+CODE:https://raw.githubusercontent.com/GertonsonC/dice3/gh-pages/Dice.pde?token=AHSL4YG3GMPRJXYZXOU6HM2462ZFC
 
   
   <details><summary>:arrow_right:Dice Reflection:arrow_left:</summary>
@@ -52,7 +52,7 @@ CODE:https://raw.githubusercontent.com/GertonsonC/dice/gh-pages/Dice.pde?token=A
 PROJECT LINK: 
 https://gertonsonc.github.io/chemotaxis4/ **DOES NOT WORK ONLINE**
     
-CODE:https://raw.githubusercontent.com/GertonsonC/chemotaxis4/gh-pages/Chemotaxis.pde?token=AeS-YGNv7duuqjbAVOk8GU8JGQBqwlRTks5cBehPwA%3D%3D
+CODE:https://raw.githubusercontent.com/GertonsonC/chemotaxis4/gh-pages/Chemotaxis.pde?token=AHSL4YCIHNY7HHUH5MJQSJK462YO4
 
 
 <details><summary>:arrow_right:Chemotaxis Reflection:arrow_left:</summary>
@@ -67,7 +67,7 @@ CODE:https://raw.githubusercontent.com/GertonsonC/chemotaxis4/gh-pages/Chemotaxi
 PROJECT LINK: 
 https://gertonsonc.github.io/starfield5/
     
-CODE:https://raw.githubusercontent.com/GertonsonC/starfield5/gh-pages/Starfield.pde?token=AeS-YMEkBUcs-5CJxJimtl7HI2QaYBKaks5cBehrwA%3D%3D
+CODE:https://raw.githubusercontent.com/GertonsonC/starfield5/gh-pages/Starfield.pde?token=AHSL4YCOTD6TXMF5U76N232462YVG
 
 
 <details><summary>:arrow_right:Starfield Reflection:arrow_left:</summary>
