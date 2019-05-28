@@ -17,6 +17,7 @@ https://raw.githubusercontent.com/GertonsonC/testWeb/gh-pages/dogPage/index.html
 
 
 <details><summary>Lightning</summary>
+    THIS PROJECT DOES NOT WORK DUE TO THE LACK OF A REPOSITORY OOPS
 PROJECT LINK:
 https://gertonsonc.github.io/lightning2/
     
