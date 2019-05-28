@@ -1,6 +1,6 @@
 # Comp Sci Portfolio !!
 
-Hey how's your day been?
+Hey !!
 
 <details><summary>HTML Site</summary>
 SITE LINK:
