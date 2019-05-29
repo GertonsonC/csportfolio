@@ -86,7 +86,7 @@ https://raw.githubusercontent.com/GertonsonC/DataProject/ghpages/DataProject/Dat
  
   
   <details><summary>:arrow_right:Data Project Reflection:arrow_left:</summary>
-    <p>Insert stuff here!!
+    <p>This project was probably my favorite to make. I really enjoy listening to music, and it is interesting for me to see trends represented through popular music. This can tell you about music theory, like what keys and tempos are more popular and represented through pop music. It was also intersting to see how media influenced popular artists, such as XXXTENTACION who died last year and brought his name to the top of the lists of artists with the most songs. My favorite part was making the piano, which I thought turned out well and allowed someone to try different keys to see the songs that use those keys. 
     </p>
   </details>
 </details>
