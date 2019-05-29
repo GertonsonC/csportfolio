@@ -91,7 +91,25 @@ https://raw.githubusercontent.com/GertonsonC/DataProject/ghpages/DataProject/Dat
   </details>
 </details>
 
+<details><summary>Innovation Seminar</summary>
+    PROJECT LINK:
+https://docs.google.com/presentation/d/1Q7ak7lBmaRNaKsiGHNkqFLk_X-9vAddZ6OzXpFtCS08/edit?usp=sharing
+  
+  <details><summary>:arrow_right:Innovation Seminar Reflection:arrow_left:</summary>
+    <p>This presentation was about 3D face scanning / facial recognition and what that can do for the world of cybersecurity. It was interesting to research and it makes me more interested in the world of cybersecurity. 
+    </p>
+  </details>
+</details>
 
+<details><summary>College Presentation</summary>
+    PROJECT LINK:
+https://docs.google.com/presentation/d/1Ut08XCyypyrMCy0XCJ-XE9XfTcR8btxizK-keR7NLV8/edit?usp=sharing
+  
+  <details><summary>:arrow_right:College Presentation Reflection:arrow_left:</summary>
+    <p>This presentation was about the University of Minnesota Twin Cities. This is currently my top choice for college and I want to major in Computer Science. I had a conversation with one of the professors at the U of M, and he told me about the program there. It sold me a lot more on hte school and now I am definetely going to apply there next year. 
+    </p>
+  </details>
+</details>
 
 <details><summary>:arrow_right:Additional Reflections:arrow_left:</summary>
 
