@@ -50,7 +50,7 @@ CODE:https://raw.githubusercontent.com/GertonsonC/dice3/gh-pages/Dice.pde?token=
 
 <details><summary>Chemotaxis</summary>
 PROJECT LINK: 
-https://gertonsonc.github.io/chemotaxis4/ **DOES NOT WORK ONLINE**
+https://gertonsonc.github.io/chemotaxis4/ **DOES NOT WORK ONLINE, COPY/PASTE CODE IN PROCESSING**
     
 CODE:https://raw.githubusercontent.com/GertonsonC/chemotaxis4/gh-pages/Chemotaxis.pde?token=AHSL4YCIHNY7HHUH5MJQSJK462YO4
 
